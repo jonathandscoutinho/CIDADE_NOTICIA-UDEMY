@@ -1,6 +1,6 @@
 # Cidade Notícia
 
-![preview](./.github/preview.PNG)
+![preview](./.github/preview.png)
 
 Projeto construído no site Udemy - Desenvolvimento Web Completo 2022
 
